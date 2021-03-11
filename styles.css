@@ -42,11 +42,16 @@ footer {
     position: fixed;
     bottom: 0px;
     width: 100%;
+    text-align: center;
 }
 
 .submit-btn {
     background-color: coral;
     color: black;
+}
+
+#red-heart {
+    color: red;
 }
 
 /* #wrapper {
