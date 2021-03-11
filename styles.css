@@ -1,0 +1,55 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(216, 216, 216);
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(51, 51, 131);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+header li {
+    display: inline;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(143, 143, 143);
+}
+
+main {
+    position: relative;
+    top: 80px;
+    display: -webkit-inline-box;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.submit-btn {
+    background-color: coral;
+    color: black;
+}
+
+/* #wrapper {
+    display: -webkit-inline-box;
+} */
+
